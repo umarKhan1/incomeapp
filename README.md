@@ -33,9 +33,3 @@
 - Xcode installed (version 15 or above recommended)
 - iOS Simulator or physical device
 
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/IncomeApp.git
-   cd IncomeApp
